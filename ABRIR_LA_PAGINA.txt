@@ -1,0 +1,9 @@
+PARA VER EL DISEÑO SIN PUBLICAR:
+1. Descomprime el ZIP.
+2. Abre la carpeta completa.
+3. Haz doble clic en index.html.
+4. NO separes index.html de styles.css ni de assets.
+5. Puedes navegar a Patient Support y Privacy Policy.
+
+Para publicar: sube los archivos y carpetas de esta carpeta al directorio raíz de tu repositorio nuevo de GitHub o súbelos a Netlify.
+La política de privacidad es un borrador que requiere revisión legal y técnica.
